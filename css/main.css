@@ -1,0 +1,3 @@
+/* A selector to ensure that the "moviesTable" causes the cursor to change to a "pointer" 
+whenever a user moves their mouse over a row */
+#moviesTable tr:hover{ cursor:pointer; }
